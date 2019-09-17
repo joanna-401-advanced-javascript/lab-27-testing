@@ -7,6 +7,7 @@
   "dependencies": {
     "enzyme": "latest",
     "enzyme-adapter-react-16": "1.7.0",
+    "fsevents": "^2.0.7",
     "react": "16.6.3",
     "react-dom": "16.6.3",
     "react-jsonschema-form": "1.0.6",
@@ -29,9 +30,6 @@
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject",
     "lint": "eslint '**/*.js'"
-  },
-  "jest": {
-    "setupTestFrameworkScriptFile": "<rootDir>__tests__/jest-setup.js"
   },
   "browserslist": [
     ">0.2%",

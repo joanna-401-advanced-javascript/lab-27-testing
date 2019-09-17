@@ -15,14 +15,14 @@
 * [styleguide](http://localhost:6060/)
 
 ### Modules
-#### `modulename.js`
+#### `app.js`
+#### `counter.js`
+#### `header.js`
+#### `footer.js`
+
 ##### Exported Values and Methods
-
-###### `foo(thing) -> string`
-Usage Notes or examples
-
-###### `bar(array) -> array`
-Usage Notes or examples
+###### `handleUp() -> updates state`
+###### `handleDown() -> updates state`
 
 ### Setup
 #### Running the app

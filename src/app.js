@@ -4,6 +4,8 @@ import Header from './components/header/header';
 import Footer from './components/footer/footer';
 import Counter from './components/counter/counter';
 
+import './stylesheets/app.scss';
+
 class App extends React.Component {
   render() {
     return (

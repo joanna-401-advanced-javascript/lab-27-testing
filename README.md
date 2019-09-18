@@ -6,7 +6,7 @@
 
 ### Links and Resources
 * [submission PR](https://github.com/joanna-401-advanced-javascript/lab-27-testing/pull/1)
-* [travis](http://xyz.com)
+* [travis](https://travis-ci.com/joanna-401-advanced-javascript/lab-27-testing)
 * [Netlify Deployment](https://infallible-ptolemy-59e0dc.netlify.com/)
 * [S3 Deployment](http://joanna-lab-27.s3-website-us-west-2.amazonaws.com/)
 * [AWS Amplify Deployment](https://testing.d2ayjwiq1b0idu.amplifyapp.com/)
@@ -21,21 +21,18 @@
 #### `footer.js`
 
 ##### Exported Values and Methods
-###### `handleUp() -> updates state`
-###### `handleDown() -> updates state`
+###### `counter -> React counter component`
+###### `header -> React header component`
+###### `footer -> React footer component`
+###### `app -> React fragment`
 
 ### Setup
 #### Running the app
 * `npm start`
-* Endpoint: `/foo/bar/`
-  * Returns a JSON object with abc in it.
-* Endpoint: `/bing/zing/`
-  * Returns a JSON object with xyz in it.
   
 #### Tests
-* How do you run tests?
-* What assertions were made?
-* What assertions need to be / should be made?
+* Unit tests: `npm run test`
+* Lint tests: `npm run lint`
 
 #### UML
-Link to an image of the UML for your application and response to events
+![UML Image]()

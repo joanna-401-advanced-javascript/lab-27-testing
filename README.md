@@ -8,7 +8,7 @@
 * [submission PR](https://github.com/joanna-401-advanced-javascript/lab-27-testing/pull/1)
 * [travis](https://travis-ci.com/joanna-401-advanced-javascript/lab-27-testing)
 * [Netlify Deployment](https://infallible-ptolemy-59e0dc.netlify.com/)
-* [S3 Deployment](http://joanna-lab-27.s3-website-us-west-2.amazonaws.com/)
+* [S3 Deployment](https://joanna-lab-27.s3-us-west-2.amazonaws.com/index.html)
 * [AWS Amplify Deployment](https://testing.d2ayjwiq1b0idu.amplifyapp.com/)
 
 #### Documentation

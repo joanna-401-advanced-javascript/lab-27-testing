@@ -1,0 +1,45 @@
+@import "variables";
+@import url('https://fonts.googleapis.com/css?family=Karla|Rubik&display=swap');
+
+body {
+  background: radial-gradient($color5, white);
+  width: 480px;
+  margin: 0 auto;
+}
+
+#root {
+  border: 3px solid $color4;
+  border-radius: 360px;
+  height: 480px;
+  width: 480px;
+  margin-top: 33%;
+  text-align: center;
+}
+
+Header {
+  margin-top: 20%;
+  color: $color3;
+  font-family: Rubik, sans-serif;
+}
+
+section {
+  margin-top: 15%;
+  font-family: Karla, sans-serif;
+  span {
+    color: $color2;
+    font-size: 3em;
+    margin: 0 30px;
+  }
+
+  a {
+    color: $color1;
+    text-decoration: none;
+  }
+
+}
+
+Footer {
+  margin-top: 20%;
+  color: $color3;
+  font-family: Rubik, sans-serif;
+}

@@ -35,4 +35,4 @@
 * Lint tests: `npm run lint`
 
 #### UML
-![UML Image]()
+![UML Image](./assets/uml.jpg)
